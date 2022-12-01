@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Uczeń\source\repos\Zawody\Zawody\Trasa.h(29,17): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Uczeń\source\repos\Zawody\Zawody\Trasa.h(36,1): warning C4244: "*=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Uczeń\source\repos\Zawody\Zawody\Trasa.h(37,1): warning C4244: "*=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Uczeń\source\repos\Zawody\Zawody\Trasa.h(38,1): warning C4244: "*=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Uczeń\source\repos\Zawody\Zawody\zawody.h(17,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Uczeń\source\repos\Zawody\Zawody\zawody.h(41,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Uczeń\source\repos\Zawody\Zawody\main.cpp(6,18): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Zawody.vcxproj -> C:\Users\Uczeń\source\repos\Zawody\Debug\Zawody.exe
